@@ -1,0 +1,21 @@
+.container {
+  padding: 8px;
+  box-shadow: 3px 3px 11px 3px rgb(0 0 0 / 32%);
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  align-items: flex-end;
+  margin-left: 45em;
+  /* justify-content: flex-end; */
+}
+
+.item {
+  margin: 0px 16px;
+}
